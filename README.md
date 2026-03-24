@@ -20,17 +20,9 @@ My research sits at the intersection of developmental biology, comparative genom
 
 `R` · `Python` · `Bash` · `Slurm` · `Streamlit` · `DESeq2` · `Seurat` · `ggplot2` · `tidyverse` · `conda`
 
-### Selected projects
-
-| Project | Description |
-|---|---|
-| **cgast_sting_map** | Modular R-based signaling pathway visualization tool — maps RNAseq expression data onto hand-curated pathway diagrams |
-| **NMR metabolomics suite** | End-to-end analysis pipeline: spectral processing → normalization → multivariate statistics → publication-ready figures |
-| **RNAseq QC & normalization** | Flexible pipeline with multiple normalization options (Log2-CPM, UQ, TMM, RLE) and interactive PCA via Streamlit |
-
 ### Beyond the bench
 
-When I'm not writing code or pipelines, I'm probably brewing coffee, building Magic: The Gathering decks, or exploring Montana's backcountry.
+When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or exploring Montana's backcountry.
 
 ---
 
