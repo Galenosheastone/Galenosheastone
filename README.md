@@ -22,7 +22,7 @@ My research sits at the intersection of developmental biology, comparative genom
 
 ### Beyond the bench
 
-When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or exploring Montana's backcountry.
+When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or in the backcountry. 
 
 ---
 
