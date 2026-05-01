@@ -2,7 +2,7 @@
 
 **Postdoctoral Researcher** · [Rashid Lab](https://github.com/Galenosheastone) · Montana State University
 
-I study the evolutionary-developmental biology of skeletal fusion in birds and mammals — combining wet-bench molecular biology with computational approaches to understand how tissues like the sacrum and pygostyle fuse during development.
+I study the evolutionary-developmental biology of skeletal fusion in birds and mammals — combining wet-bench molecular biology and immunology with computational approaches to understand how tissues like the sacrum and pygostyle fuse during development and how these processes work in mammalian systems. 
 
 ---
 
