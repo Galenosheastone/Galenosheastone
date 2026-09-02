@@ -8,7 +8,7 @@
 
 ### Beyond the bench
 
-When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or in the backcountry. 
+When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or walking around in the backcountry. 
 
 ---
 
