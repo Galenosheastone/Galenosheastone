@@ -5,8 +5,8 @@
 ### Tools & languages
 
 `R` · `Python` · `Bash` · `Slurm` , learning
-
-When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or walking around in the backcountry. 
+Biology is hard but let's try. 
+Skiing, snowboarding, building Magic decks, or walking around in the backcountry is fun too. 
 
 ---
 
