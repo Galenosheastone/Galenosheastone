@@ -4,7 +4,7 @@
 
 ### Tools & languages
 
-`R` · `Python` · `Bash` · `Slurm` , `learning`, 
+`R` · `Python` · `Bash` · `Slurm` , `learning`
 ---
 Biology is hard but let's try. 
 ---
