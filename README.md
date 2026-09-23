@@ -8,7 +8,7 @@
 ---
 Biology is hard but let's try. 
 ---
-Skiing, snowboarding, building Magic decks, or walking around in the backcountry is fun too. 
+Skiing, snowboarding, riding bikes, building Magic decks, or walking around in the backcountry is fun too. 
 ---
 
 📫 **galenoshea@gmail.com**
