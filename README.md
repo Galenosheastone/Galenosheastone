@@ -4,7 +4,7 @@
 
 ### Tools & languages
 
-`R` · `Python` · `Bash` · `Slurm` , 'learning'
+`R` · `Python` · `Bash` · `Slurm` , learning
 
 When I'm not writing code or pipelines, I'm probably skiing, snowboarding, building Magic: The Gathering decks, or walking around in the backcountry. 
 
