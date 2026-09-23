@@ -4,7 +4,7 @@
 
 ### Tools & languages
 
-`R` · `Python` · `Bash` · `Slurm` , learning
+`R` · `Python` · `Bash` · `Slurm` , learning, 
 Biology is hard but let's try. 
 Skiing, snowboarding, building Magic decks, or walking around in the backcountry is fun too. 
 
