@@ -1,8 +1,7 @@
 # Hi, I'm Galen O'Shea-Stone 👋
 
 
-
-### Tools & languages
+# Tools & languages
 
 `R` · `Python` · `Bash` · `Slurm` , `learning`
 ---
